@@ -1,0 +1,144 @@
+{
+  "personal": {
+    "name": "MD MUBAROK HOSIN",
+    "firstName": "MUBAROK",
+    "initials": "M",
+    "title": "Web Developer | UI/UX Enthusiast | Problem Solver",
+    "titleBn": "ওয়েব ডেভেলপার | ইউআই/ইউএক্স উৎসাহী | সমস্যা সমাধানকারী",
+    "tagline": "Crafting Digital Experiences That Matter",
+    "taglineBn": "ডিজিটাল অভিজ্ঞতা তৈরি করা যা গুরুত্বপূর্ণ",
+    "bio": {
+      "short": "A passionate Web Developer from Bangladesh, crafting beautiful, performant, and user-centric digital experiences with modern web technologies.",
+      "shortBn": "বাংলাদেশের একজন আবেগপূর্ণ ওয়েব ডেভেলপার, আধুনিক ওয়েব প্রযুক্তি ব্যবহার করে সুন্দর, কার্যকর এবং ব্যবহারকারী-কেন্দ্রিক ডিজিটাল অভিজ্ঞতা তৈরি করছি।",
+      "full": [
+        "I am MD MUBAROK HOSIN, a passionate and results-driven Web Developer with over 5 years of experience in crafting modern, responsive, and high-performance web applications. Based in Bangladesh, I specialize in building digital solutions that not only look stunning but also deliver exceptional user experiences.",
+        "My journey in web development began with a curiosity for how things work on the internet, which quickly grew into a deep passion for creating meaningful digital products. I have worked with diverse clients ranging from local startups to established businesses, helping them establish their online presence and achieve their digital goals through innovative web solutions.",
+        "I believe in writing clean, maintainable code and following industry best practices. When I am not coding, you will find me exploring new technologies, contributing to open-source projects, or mentoring aspiring developers in my community. I am always eager to take on new challenges and push the boundaries of what is possible on the web."
+      ],
+      "fullBn": [
+        "আমি এম ডি মুবারক হোসেন, আধুনিক, রেসপন্সিভ এবং উচ্চ-কার্যক্ষম ওয়েব অ্যাপ্লিকেশন তৈরিতে ৫ বছরেরও বেশি অভিজ্ঞতা সম্পন্ন একজন আবেগপূর্ণ এবং ফলাফল-চালিত ওয়েব ডেভেলপার। বাংলাদেশে অবস্থিত, আমি এমন ডিজিটাল সমাধান তৈরিতে বিশেষজ্ঞ যা শুধু দৃষ্টিনন্দনই নয় বরং অসাধারণ ব্যবহারকারী অভিজ্ঞতাও প্রদান করে।",
+        "ওয়েব ডেভেলপমেন্টে আমার যাত্রা শুরু হয়েছিল ইন্টারনেটে কিভাবে জিনিসগুলো কাজ করে তা জানার কৌতূহল থেকে, যা দ্রুত অর্থপূর্ণ ডিজিটাল পণ্য তৈরির গভীর আবেগে পরিণত হয়েছে। স্থানীয় স্টার্টআপ থেকে শুরু করে প্রতিষ্ঠিত ব্যবসাগুলো পর্যন্ত বিভিন্ন ক্লায়েন্টের সাথে কাজ করেছি, উদ্ভাবনী ওয়েব সমাধানের মাধ্যমে তাদের অনলাইন উপস্থিতি প্রতিষ্ঠা এবং ডিজিটাল লক্ষ্য অর্জনে সহায়তা করেছি।",
+        "আমি পরিষ্কার, রক্ষণাবেক্ষণযোগ্য কোড লেখা এবং শিল্পের সর্বোত্তম অনুশীলন অনুসরণ করায় বিশ্বাস করি। যখন আমি কোডিং করছি না, আপনি আমাকে নতুন প্রযুক্তি অন্বেষণ, ওপেন-সোর্স প্রজেক্টে অবদান বা আমার সম্প্রদায়ের উচ্চাকাঙ্ক্ষী ডেভেলপারদের পরামর্শ দিতে পাবেন। আমি সবসময় নতুন চ্যালেঞ্জ গ্রহণ এবং ওয়েবে সম্ভাব্য সীমানা ছাড়িয়ে যেতে আগ্রহী।"
+      ]
+    },
+    "email": "contact.mdmubarok@gmail.com",
+    "phone": "+880 1XXX-XXXXXX",
+    "location": "ঢাকা, বাংলাদেশ",
+    "locationEn": "Dhaka, Bangladesh",
+    "languages": ["বাংলা", "English"],
+    "availability": "Available for Freelance Work",
+    "availabilityBn": "ফ্রিল্যান্স কাজের জন্য উপলব্ধ",
+    "profileImage": "/profile.jpg",
+    "resumeUrl": "#"
+  },
+  "stats": [
+    { "label": "Years Experience", "labelBn": "বছরের অভিজ্ঞতা", "value": 5, "suffix": "+", "icon": "bi-code-slash" },
+    { "label": "Projects Completed", "labelBn": "সম্পন্ন প্রজেক্ট", "value": 50, "suffix": "+", "icon": "bi-rocket-takeoff" },
+    { "label": "Happy Clients", "labelBn": "সন্তুষ্ট ক্লায়েন্ট", "value": 30, "suffix": "+", "icon": "bi-emoji-smile" },
+    { "label": "Awards Won", "labelBn": "পুরস্কার", "value": 10, "suffix": "+", "icon": "bi-trophy" }
+  ],
+  "pages": [
+    { "id": "home", "label": "Home", "labelBn": "হোম", "icon": "bi-house-door-fill" },
+    { "id": "about", "label": "About", "labelBn": "সম্পর্কে", "icon": "bi-person-fill" },
+    { "id": "skills", "label": "Skills", "labelBn": "দক্ষতা", "icon": "bi-code-slash" },
+    { "id": "projects", "label": "Projects", "labelBn": "প্রজেক্ট", "icon": "bi-folder-fill" },
+    { "id": "experience", "label": "Experience", "labelBn": "অভিজ্ঞতা", "icon": "bi-briefcase-fill" },
+    { "id": "contact", "label": "Contact", "labelBn": "যোগাযোগ", "icon": "bi-envelope-fill" }
+  ],
+  "socialLinks": [
+    { "name": "GitHub", "icon": "bi-github", "url": "https://github.com/" },
+    { "name": "LinkedIn", "icon": "bi-linkedin", "url": "https://linkedin.com/" },
+    { "name": "Facebook", "icon": "bi-facebook", "url": "https://facebook.com/" },
+    { "name": "Twitter", "icon": "bi-twitter-x", "url": "https://twitter.com/" },
+    { "name": "WhatsApp", "icon": "bi-whatsapp", "url": "https://wa.me/" }
+  ],
+  "services": [
+    { "title": "Web Development", "titleBn": "ওয়েব ডেভেলপমেন্ট", "description": "Building modern, responsive, and high-performance web applications using the latest technologies like React, Next.js, and Node.js.", "descriptionBn": "রিঅ্যাক্ট, নেক্সট.জেএস এবং নোড.জেএস-এর মতো সর্বশেষ প্রযুক্তি ব্যবহার করে আধুনিক, রেসপন্সিভ এবং উচ্চ-কার্যক্ষম ওয়েব অ্যাপ্লিকেশন তৈরি করা।", "icon": "bi-globe2", "color": "#006a4e" },
+    { "title": "UI/UX Design", "titleBn": "ইউআই/ইউএক্স ডিজাইন", "description": "Creating intuitive and visually stunning user interfaces with focus on user experience, accessibility, and modern design principles.", "descriptionBn": "ব্যবহারকারী অভিজ্ঞতা, অ্যাক্সেসিবিলিটি এবং আধুনিক ডিজাইন নীতির উপর ফোকাস সহ স্বজ্ঞাত এবং দৃষ্টিনন্দন ইউজার ইন্টারফেস তৈরি করা।", "icon": "bi-palette2", "color": "#f42a41" },
+    { "title": "API Development", "titleBn": "এপিআই ডেভেলপমেন্ট", "description": "Designing and building robust RESTful APIs and GraphQL endpoints with proper authentication, validation, and documentation.", "descriptionBn": "সঠিক প্রমাণীকরণ, ভ্যালিডেশন এবং ডকুমেন্টেশন সহ শক্তিশালী RESTful API এবং GraphQL এন্ডপয়েন্ট ডিজাইন ও নির্মাণ করা।", "icon": "bi-plug-fill", "color": "#00875a" },
+    { "title": "Performance Optimization", "titleBn": "পারফরম্যান্স অপটিমাইজেশন", "description": "Analyzing and optimizing web applications for speed, SEO, and core web vitals to ensure the best possible user experience.", "descriptionBn": "সর্বোত্তম ব্যবহারকারী অভিজ্ঞতা নিশ্চিত করতে গতি, এসইও এবং কোর ওয়েব ভাইটালের জন্য ওয়েব অ্যাপ্লিকেশন বিশ্লেষণ ও অপ্টিমাইজ করা।", "icon": "bi-speedometer2", "color": "#3776ab" }
+  ],
+  "skills": [
+    { "name": "HTML5", "icon": "bi-filetype-html", "level": 95, "color": "#e34f26", "category": "frontend" },
+    { "name": "CSS3", "icon": "bi-filetype-css", "level": 90, "color": "#1572b6", "category": "frontend" },
+    { "name": "JavaScript", "icon": "bi-filetype-js", "level": 88, "color": "#f7df1e", "category": "frontend" },
+    { "name": "TypeScript", "icon": "bi-filetype-tsx", "level": 82, "color": "#3178c6", "category": "frontend" },
+    { "name": "React", "icon": "bi-filetype-jsx", "level": 85, "color": "#61dafb", "category": "frontend" },
+    { "name": "Next.js", "icon": "bi-braces-asterisk", "level": 80, "color": "#006a4e", "category": "frontend" },
+    { "name": "Tailwind CSS", "icon": "bi-palette2", "level": 92, "color": "#06b6d4", "category": "frontend" },
+    { "name": "Node.js", "icon": "bi-hdd-network-fill", "level": 78, "color": "#339933", "category": "backend" },
+    { "name": "MongoDB", "icon": "bi-database-fill", "level": 75, "color": "#47a248", "category": "backend" },
+    { "name": "Python", "icon": "bi-filetype-py", "level": 72, "color": "#3776ab", "category": "backend" },
+    { "name": "Git", "icon": "bi-git", "level": 85, "color": "#f05032", "category": "tools" },
+    { "name": "Figma", "icon": "bi-vector-pen", "level": 70, "color": "#a259ff", "category": "tools" }
+  ],
+  "skillCategories": [
+    { "id": "all", "label": "All", "labelBn": "সকল", "icon": "bi-grid-3x3-gap-fill" },
+    { "id": "frontend", "label": "Frontend", "labelBn": "ফ্রন্টএন্ড", "icon": "bi-display" },
+    { "id": "backend", "label": "Backend", "labelBn": "ব্যাকএন্ড", "icon": "bi-hdd-network" },
+    { "id": "tools", "label": "Tools", "labelBn": "টুলস", "icon": "bi-tools" }
+  ],
+  "additionalTools": [
+    { "name": "Redux", "icon": "bi-diagram-3-fill" },
+    { "name": "REST API", "icon": "bi-plug-fill" },
+    { "name": "GraphQL", "icon": "bi-share-fill" },
+    { "name": "Docker", "icon": "bi-box-seam-fill" },
+    { "name": "AWS", "icon": "bi-cloud-fill" },
+    { "name": "Firebase", "icon": "bi-fire" },
+    { "name": "Vercel", "icon": "bi-triangle-fill" },
+    { "name": "Jest", "icon": "bi-bug-fill" },
+    { "name": "Webpack", "icon": "bi-boxes" },
+    { "name": "SASS", "icon": "bi-brush-fill" },
+    { "name": "WordPress", "icon": "bi-wordpress" },
+    { "name": "MySQL", "icon": "bi-server" }
+  ],
+  "projects": [
+    { "title": "Bengali Fonts CDN – High-Performance Web Fonts", "titleBn": "বাংলা ফন্ট সিডিএন – হাই-পারফরম্যান্স ওয়েব ফন্ট", "description": "A lightning-fast Content Delivery Network (CDN) for premium and open-source Bengali fonts. Enhance your website's typography with seamless integration and optimized loading speeds.", "descriptionBn": "প্রিমিয়াম এবং ওপেন-সোর্স বাংলা ফন্টের জন্য একটি দ্রুতগতির সিডিএন প্ল্যাটফর্ম। আপনার ওয়েবসাইটের টাইপোগ্রাফিকে আরও সুন্দর ও দ্রুত করতে আমাদের ফন্টগুলো সহজে ব্যবহার করুন।", "tags": ["Next.js", "MongoDB", "Tailwind CSS", "Stripe"], "icon": "bi-file-earmark-font", "color": "#006a4e", "liveUrl": "https://banglafontcdn.pages.dev/", "codeUrl": "#", "featured": true, "category": "fullstack" },
+    { "title": "Smart Madrasah Automation Software", "titleBn": "স্মার্ট মাদরাসা অটোমেশন সফটওয়্যার", "description": "An advanced platform featuring automated result processing, fee collection, and parent-teacher communication to enhance institutional efficiency.", "descriptionBn": "প্রতিষ্ঠানের দক্ষতা বৃদ্ধির লক্ষ্যে স্বয়ংক্রিয় ফলাফল প্রক্রিয়াকরণ, ফি সংগ্রহ এবং অভিভাবক-শিক্ষক যোগাযোগের একটি উন্নত প্ল্যাটফর্ম।", "tags": ["React", "Chart.js", "TypeScript", "REST API"], "icon": "bi-buildings", "color": "#f42a41", "liveUrl": "https://studio-4q3.pages.dev/", "codeUrl": "#", "featured": true, "category": "frontend" },
+    { "title": "Free Food Map", "titleBn": "ফ্রি ফুড ম্যাপ", "description": "An interactive map designed to help individuals find free food resources, such as community kitchens, food banks, and donation centers, ensuring no one goes hungry.", "descriptionBn": "একটি ইন্টারেক্টিভ ম্যাপ যা সাধারণ মানুষকে বিনামূল্যে খাবারের উৎস যেমন—কমিউনিটি কিচেন, ফুড ব্যাংক এবং ত্রাণ কেন্দ্রগুলো খুঁজে পেতে সাহায্য করে, যাতে কেউ অনাহারে না থাকে।", "tags": ["React", "Node.js", "Socket.io", "MongoDB"], "icon": "bi-pin-map-fill", "color": "#00875a", "liveUrl": "#", "codeUrl": "#", "featured": true, "category": "fullstack" },
+    { "title": "Smart Factory List Pro", "titleBn": "স্মার্ট ফ্যাক্টরি লিস্ট প্রো", "description": "Smart Factory List Pro is a modern, real-time web application designed to streamline factory and warehouse inventory management. It facilitates efficient tracking of export and import goods, replacing traditional paper-based methods with a digital, smart, and automated data management system.", "descriptionBn": "স্মার্ট ফ্যাক্টরি লিস্ট প্রো একটি আধুনিক এবং রিয়েল-টাইম ওয়েব অ্যাপ্লিকেশন, যা ফ্যাক্টরি বা ওয়্যারহাউজের মালামাল (রপ্তানি/আমদানি) ট্র্যাকিং এবং লিস্টিং করার জন্য তৈরি করা হয়েছে। এটি খাতা-কলমের সনাতন পদ্ধতির ঝামেলা কমিয়ে ডিজিটাল এবং স্মার্ট উপায়ে ডাটা ম্যানেজমেন্ট নিশ্চিত করে।", "tags": ["Next.js", "Prisma", "PostgreSQL", "DnD Kit"], "icon": "bi-list-columns-reverse", "color": "#3776ab", "liveUrl": "https://blasting-number.pages.dev/", "codeUrl": "#", "featured": false, "category": "fullstack" },
+    { "title": "Weather Forecast App", "titleBn": "আবহাওয়া পূর্বাভাস অ্যাপ", "description": "A beautiful weather application with location-based forecasts, interactive maps, severe weather alerts, and 7-day predictions powered by OpenWeather API.", "descriptionBn": "লোকেশন-ভিত্তিক পূর্বাভাস, ইন্টারেক্টিভ ম্যাপ, চরম আবহাওয়া সতর্কতা এবং ওপেনওয়েদার এপিআই দ্বারা পরিচালিত ৭ দিনের পূর্বাভাস সহ একটি সুন্দর আবহাওয়া অ্যাপ্লিকেশন।", "tags": ["React", "API Integration", "Geolocation", "CSS3"], "icon": "bi-cloud-sun-fill", "color": "#06b6d4", "liveUrl": "#", "codeUrl": "#", "featured": false, "category": "frontend" },
+    { "title": "Shohayok Messenger – Secure Real-Time Chatting Web App", "titleBn": "সহায়ক মেসেঞ্জার – নিরাপদ রিয়েল-টাইম চ্যাটিং ওয়েব অ্যাপ", "description": "Shohayok Messenger is a complete real-time chatting web application inspired by WhatsApp but built entirely in Bengali. Instead of phone numbers, it ensures privacy through unique 4-digit IDs. Powered by Firebase and WebRTC, the app offers seamless text messaging, high-quality audio/video calls, and 24-hour status updates. It also features a sleek dark mode and fully customizable user profiles for a modern communication experience.", "descriptionBn": "সহায়ক মেসেঞ্জার হলো সম্পূর্ণ বাংলায় তৈরি হোয়াটসঅ্যাপের আদলে একটি আধুনিক রিয়েল-টাইম চ্যাটিং ওয়েব অ্যাপ। ফোন নাম্বারের পরিবর্তে ৪-ডিজিটের ইউনিক আইডি ব্যবহারের মাধ্যমে এটি ব্যবহারকারীর সর্বোচ্চ নিরাপত্তা নিশ্চিত করে। Firebase এবং WebRTC প্রযুক্তিতে তৈরি এই অ্যাপটিতে রয়েছে টেক্সট চ্যাট, অডিও-ভিডিও কল এবং ২৪ ঘণ্টার স্ট্যাটাস শেয়ার করার সুবিধা। এছাড়া ডার্ক মোড ও কাস্টম প্রোফাইল ফিচার অ্যাপটিকে দিয়েছে এক অনন্য লুক ও ইউজার এক্সপেরিয়েন্স।", "tags": ["Next.js", "MDX", "Prisma", "Vercel"], "icon": "bi-chat-dots-fill", "color": "#a259ff", "liveUrl": "https://chatbd.pages.dev/", "codeUrl": "#", "featured": true, "category": "fullstack" }
+  ],
+  "projectCategories": [
+    { "id": "all", "label": "All Projects", "labelBn": "সকল প্রজেক্ট", "icon": "bi-grid-3x3-gap-fill" },
+    { "id": "frontend", "label": "Frontend", "labelBn": "ফ্রন্টএন্ড", "icon": "bi-display" },
+    { "id": "fullstack", "label": "Full Stack", "labelBn": "ফুল স্ট্যাক", "icon": "bi-layers-fill" }
+  ],
+  "experiences": [
+    { "title": "Senior Web Developer", "titleBn": "সিনিয়র ওয়েব ডেভেলপার", "company": "Tech Solutions BD", "period": "2026 - Present", "periodBn": "২০২৬ - বর্তমান", "description": "Leading the frontend development team, building scalable web applications using Next.js and React. Implemented CI/CD pipelines and improved site performance by 40%.", "descriptionBn": "ফ্রন্টএন্ড ডেভেলপমেন্ট টিমের নেতৃত্ব দিচ্ছি, নেক্সট.জেএস এবং রিঅ্যাক্ট ব্যবহার করে স্কেলযোগ্য ওয়েব অ্যাপ্লিকেশন তৈরি করছি। CI/CD পাইপলাইন বাস্তবায়ন করেছি এবং সাইটের পারফরম্যান্স ৪০% উন্নত করেছি।", "icon": "bi-briefcase-fill", "type": "full-time" },
+    { "title": "Frontend Developer", "titleBn": "ফ্রন্টএন্ড ডেভেলপার", "company": "Digital Agency Dhaka", "period": "2021 - 2025", "periodBn": "২০২১ - ২০২৫", "description": "Developed responsive web applications and interactive UI components. Collaborated with designers and backend developers to deliver high-quality digital products for clients.", "descriptionBn": "রেসপন্সিভ ওয়েব অ্যাপ্লিকেশন এবং ইন্টারেক্টিভ ইউআই কম্পোনেন্ট ডেভেলপ করেছি। ক্লায়েন্টদের জন্য উচ্চমানের ডিজিটাল পণ্য সরবরাহ করতে ডিজাইনার এবং ব্যাকএন্ড ডেভেলপারদের সাথে সহযোগিতা করেছি।", "icon": "bi-display-fill", "type": "full-time" },
+    { "title": "Junior Web Developer", "titleBn": "জুনিয়র ওয়েব ডেভেলপার", "company": "StartUp Hub Bangladesh", "period": "2020 - 2021", "periodBn": "২০২০ - ২০২১", "description": "Built and maintained web applications using HTML, CSS, JavaScript, and React. Gained hands-on experience with modern development workflows and agile methodologies.", "descriptionBn": "এইচটিএমএল, সিএসএস, জাভাস্ক্রিপ্ট এবং রিঅ্যাক্ট ব্যবহার করে ওয়েব অ্যাপ্লিকেশন তৈরি ও রক্ষণাবেক্ষণ করেছি। আধুনিক ডেভেলপমেন্ট ওয়ার্কফ্লো এবং এজাইল পদ্ধতির সাথে হাতে-কলমে অভিজ্ঞতা অর্জন করেছি।", "icon": "bi-code-square", "type": "full-time" },
+    { "title": "Web Development Intern", "titleBn": "ওয়েব ডেভেলপমেন্ট ইন্টার্ন", "company": "IT Park Bangladesh", "period": "2019 - 2020", "periodBn": "২০১৯ - ২০২০", "description": "Started professional journey in web development, learning industry best practices, version control with Git, and contributing to team projects under senior mentorship.", "descriptionBn": "ওয়েব ডেভেলপমেন্টে পেশাদার যাত্রা শুরু করেছি, শিল্পের সর্বোত্তম অনুশীলন, গিটের সাথে ভার্সন কন্ট্রোল শিখেছি এবং সিনিয়র মেন্টরশিপে টিম প্রজেক্টে অবদান রেখেছি।", "icon": "bi-mortarboard-fill", "type": "internship" }
+  ],
+  "education": [
+    { "degree": "Bachelor of Science in Computer Science", "degreeBn": "কম্পিউটার বিজ্ঞানে বিএসসি", "institution": "University of Dhaka", "institutionBn": "ঢাকা বিশ্ববিদ্যালয়", "period": "2015 - 2019", "periodBn": "২০১৫ - ২০১৯", "icon": "bi-mortarboard-fill" }
+  ],
+  "testimonials": [
+    { "name": "Ahmed Karim", "role": "CEO, Tech Solutions BD", "roleBn": "সিইও, টেক সলিউশন্স বিডি", "text": "Mubarok is an exceptional developer who consistently delivers beyond expectations. His attention to detail and problem-solving skills are remarkable.", "textBn": "মুবারক একজন অসাধারণ ডেভেলপার যিনি ধারাবাহিকভাবে প্রত্যাশার ঊর্ধ্বে কাজ সরবরাহ করেন। তার বিস্তারিত দিকে মনোযোগ এবং সমস্যা সমাধানের দক্ষতা লক্ষণীয়।", "avatar": "AK" },
+    { "name": "Fatima Rahman", "role": "Project Manager, Digital Agency", "roleBn": "প্রজেক্ট ম্যানেজার, ডিজিটাল এজেন্সি", "text": "Working with Mubarok was a great experience. He transformed our ideas into beautiful, functional websites that our clients love.", "textBn": "মুবারকের সাথে কাজ করা একটি দারুণ অভিজ্ঞতা ছিল। তিনি আমাদের ধারণাগুলোকে সুন্দর, কার্যকরী ওয়েবসাইটে রূপান্তরিত করেছেন যা আমাদের ক্লায়েন্টরা পছন্দ করে।", "avatar": "FR" },
+    { "name": "Rafiq Hasan", "role": "Founder, StartUp Hub", "roleBn": "প্রতিষ্ঠাতা, স্টার্টআপ হাব", "text": "Mubarok's technical expertise and dedication to quality made him an invaluable member of our team. Highly recommended!", "textBn": "মুবারকের প্রযুক্তিগত দক্ষতা এবং মানের প্রতি নিষ্ঠা তাকে আমাদের টিমের একজন অমূল্য সদস্য করে তুলেছে। অত্যন্ত সুপারিশকৃত!", "avatar": "RH" },
+    { "name": "Nadia Islam", "role": "CTO, Creative Solutions", "roleBn": "সিটিও, ক্রিয়েটিভ সলিউশন্স", "text": "Mubarok brings both creativity and technical excellence to every project. His ability to understand client needs and deliver innovative solutions is outstanding.", "textBn": "মুবারক প্রতিটি প্রজেক্টে সৃজনশীলতা এবং প্রযুক্তিগত উৎকর্ষ উভয়ই আনেন। ক্লায়েন্টের চাহিদা বুঝতে এবং উদ্ভাবনী সমাধান সরবরাহ করতে তার ক্ষমতা অসাধারণ।", "avatar": "NI" }
+  ],
+  "certificates": [
+    { "title": "Meta Frontend Developer Professional", "titleBn": "মেটা ফ্রন্টএন্ড ডেভেলপার প্রফেশনাল", "issuer": "Meta (Coursera)", "issuerBn": "মেটা (কোর্সেরা)", "date": "2023", "icon": "bi-patch-check-fill", "color": "#006a4e", "url": "#" },
+    { "title": "AWS Cloud Practitioner", "titleBn": "এডাব্লিউএস ক্লাউড প্র্যাকটিশনার", "issuer": "Amazon Web Services", "issuerBn": "অ্যামাজন ওয়েব সার্ভিসেস", "date": "2023", "icon": "bi-cloud-check-fill", "color": "#f42a41", "url": "#" },
+    { "title": "React Advanced Certification", "titleBn": "রিঅ্যাক্ট অ্যাডভান্সড সার্টিফিকেশন", "issuer": "Udemy", "issuerBn": "উডেমি", "date": "2022", "icon": "bi-award-fill", "color": "#00875a", "url": "#" },
+    { "title": "Node.js Backend Developer", "titleBn": "নোড.জেএস ব্যাকএন্ড ডেভেলপার", "issuer": "LinkedIn Learning", "issuerBn": "লিংকডইন লার্নিং", "date": "2022", "icon": "bi-mortarboard-fill", "color": "#3776ab", "url": "#" },
+    { "title": "MongoDB Developer Certification", "titleBn": "মঙ্গোডিবি ডেভেলপার সার্টিফিকেশন", "issuer": "MongoDB University", "issuerBn": "মঙ্গোডিবি ইউনিভার্সিটি", "date": "2021", "icon": "bi-database-check", "color": "#47a248", "url": "#" },
+    { "title": "TypeScript Professional", "titleBn": "টাইপস্ক্রিপ্ট প্রফেশনাল", "issuer": "Microsoft", "issuerBn": "মাইক্রোসফট", "date": "2022", "icon": "bi-filetype-tsx", "color": "#3178c6", "url": "#" }
+  ],
+  "faq": [
+    { "question": "What types of projects do you work on?", "questionBn": "আপনি কি ধরনের প্রজেক্টে কাজ করেন?", "answer": "I specialize in building modern web applications including e-commerce platforms, SaaS dashboards, portfolio websites, content management systems, and custom business solutions. I work with React, Next.js, Node.js, and other modern technologies to deliver high-quality, scalable products.", "answerBn": "আমি ই-কমার্স প্ল্যাটফর্ম, এসএএএস ড্যাশবোর্ড, পোর্টফোলিও ওয়েবসাইট, কন্টেন্ট ম্যানেজমেন্ট সিস্টেম এবং কাস্টম বিজনেস সলিউশন সহ আধুনিক ওয়েব অ্যাপ্লিকেশন তৈরিতে বিশেষজ্ঞ। উচ্চমানের, স্কেলযোগ্য পণ্য সরবরাহ করতে আমি রিঅ্যাক্ট, নেক্সট.জেএস, নোড.জেএস এবং অন্যান্য আধুনিক প্রযুক্তি ব্যবহার করি।" },
+    { "question": "What is your development process?", "questionBn": "আপনার ডেভেলপমেন্ট প্রক্রিয়া কি?", "answer": "My development process follows a structured approach: Discovery (understanding requirements), Design (creating wireframes and prototypes), Development (building with clean code), and Launch (testing, deployment, and support). I maintain transparent communication throughout the project lifecycle.", "answerBn": "আমার ডেভেলপমেন্ট প্রক্রিয়া একটি কাঠামোবদ্ধ পদ্ধতি অনুসরণ করে: আবিষ্কার (প্রয়োজনীয়তা বোঝা), ডিজাইন (ওয়্যারফ্রেম এবং প্রোটোটাইপ তৈরি), ডেভেলপমেন্ট (পরিষ্কার কোড দিয়ে তৈরি), এবং লঞ্চ (পরীক্ষা, স্থাপন এবং সহায়তা)। প্রজেক্টের সম্পূর্ণ জীবনচক্রে আমি স্বচ্ছ যোগাযোগ বজায় রাখি।" },
+    { "question": "How long does a typical project take?", "questionBn": "একটি সাধারণ প্রজেক্টে কত সময় লাগে?", "answer": "Project timelines vary based on complexity. A simple portfolio website may take 1-2 weeks, while a complex e-commerce platform can take 4-8 weeks. I always provide a detailed timeline during our initial consultation and keep you updated on progress.", "answerBn": "প্রজেক্টের জটিলতার উপর নির্ভর করে সময়সীমা পরিবর্তিত হয়। একটি সাধারণ পোর্টফোলিও ওয়েবসাইটে ১-২ সপ্তাহ লাগতে পারে, অন্যদিকে একটি জটিল ই-কমার্স প্ল্যাটফর্মে ৪-৮ সপ্তাহ লাগতে পারে। আমি সবসময় প্রাথমিক পরামর্শের সময় একটি বিস্তারিত সময়সীমা প্রদান করি এবং অগ্রগতি সম্পর্কে আপনাকে আপডেট রাখি।" },
+    { "question": "Do you provide post-launch support?", "questionBn": "আপনি কি লঞ্চের পরে সহায়তা প্রদান করেন?", "answer": "Yes, I offer comprehensive post-launch support including bug fixes, performance monitoring, security updates, and feature enhancements. I believe in building long-term relationships with clients and ensuring their web applications continue to perform optimally.", "answerBn": "হ্যাঁ, আমি বাগ ফিক্স, পারফরম্যান্স মনিটরিং, নিরাপত্তা আপডেট এবং ফিচার এনহান্সমেন্ট সহ ব্যাপক লঞ্চ-পরবর্তী সহায়তা প্রদান করি। আমি ক্লায়েন্টদের সাথে দীর্ঘমেয়াদী সম্পর্ক তৈরি এবং তাদের ওয়েব অ্যাপ্লিকেশনগুলোর সর্বোত্তম কার্যক্ষমতা নিশ্চিত করতে বিশ্বাস করি।" },
+    { "question": "What are your payment terms?", "questionBn": "আপনার পেমেন্টের শর্তাবলী কি?", "answer": "I typically work with a 40% upfront payment, 30% at the midpoint milestone, and 30% upon project completion. For smaller projects, a 50% advance may apply. I accept payments via bank transfer, bKash, and international payment methods like PayPal and Wise.", "answerBn": "আমি সাধারণত ৪০% অগ্রিম পেমেন্ট, ৩০% মধ্যবর্তী মাইলস্টোনে এবং ৩০% প্রজেক্ট সম্পন্নের পরে কাজ করি। ছোট প্রজেক্টের জন্য ৫০% অগ্রিম প্রযোজ্য হতে পারে। আমি ব্যাংক ট্রান্সফার, বিকাশ এবং পেপ্যাল ও ওয়াইজের মতো আন্তর্জাতিক পেমেন্ট পদ্ধতি গ্রহণ করি।" }
+  ],
+  "contactInfo": [
+    { "icon": "bi-envelope-fill", "title": "Email", "titleBn": "ইমেইল", "value": "contact.mdmubarok@gmail.com", "link": "mailto:contact.mdmubarok@gmail.com" },
+    { "icon": "bi-telephone-fill", "title": "Phone", "titleBn": "ফোন", "value": "+880 1XXX-XXXXXX", "link": "tel:+8801XXXXXXXXX" },
+    { "icon": "bi-geo-alt-fill", "title": "Location", "titleBn": "অবস্থান", "value": "ঢাকা, বাংলাদেশ", "valueEn": "Dhaka, Bangladesh", "link": null },
+    { "icon": "bi-clock-fill", "title": "Working Hours", "titleBn": "কাজের সময়", "value": "শনি - বৃহঃ, ১০:০০ AM - ৭:০০ PM (BST)", "valueEn": "Sat - Thu, 10:00 AM - 7:00 PM (BST)", "link": null }
+  ]
+}
