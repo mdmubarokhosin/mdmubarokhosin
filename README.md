@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Md%20Mubarok%20Hosin&fontSize=60&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=180&color=3b82f6&text=MD%20MUBAROK&textBg=false&section=header&descAlign=94" width="100%" />
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;UI/UX+Designer;Tech+Enthusiast;Creative+Coder" alt="Typing SVG" />
 </div>
